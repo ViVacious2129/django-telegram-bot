@@ -4,3 +4,4 @@
 3.setup telegram bot open telegram search fatherbot -> create bot
 4.setup web hook https://api.telegram.org/bot<bot_tokken>/setWebhook?url=<bgrok_url>/c817304a3d163ebd58b44dd446eba29572300724098cdbca1a
 5.add data to env
+6.run /index to run the site
